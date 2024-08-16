@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+.box-btn{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    border: 8px solid black;
+    border-radius: 18%;
+    margin: 18px;
+    height: 200px;
+    width: 200px;
+}
+.red img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    overflow: hidden;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: greenyellow;
+}
+.flash{
+    background-color: white;
+}
