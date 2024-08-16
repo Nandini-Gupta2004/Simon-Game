@@ -1,3 +1,3 @@
 ﻿# Simon-Game
   This is small game-built by using javascript.
-  It hepls to boost the memory :)
+  It helps to boost the memory.
